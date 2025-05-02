@@ -1,3 +1,4 @@
+# Unity Generated
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -5,7 +6,14 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]serSettings/
+MemoryCaptures/
+CrashReports/
+
+# IDE
 .vscode/
+.idea/
+
+# Unity Project Settings
 *.csproj
 *.unityproj
 *.sln
@@ -17,5 +25,19 @@
 *.mdb
 *.opendb
 *.VC.db
-*.DS_Store
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# TextMeshPro
+TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+
+# Android builds
 *.apk
+
+# Keep essential folders
+!Assets/
+!ProjectSettings/
+!Packages/
