@@ -41,3 +41,7 @@ TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
 !Assets/
 !ProjectSettings/
 !Packages/
+
+# Allow Unity scene files and prefabs
+!*.unity
+!*.prefab
