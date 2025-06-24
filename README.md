@@ -35,7 +35,6 @@ QuizQuest is a gamified learning prototype using Unity 2D. Players engage with q
 ### /Scenes
 存放游戏的场景文件。
 - **MainScene**：主要的游戏场景文件，包含游戏的核心内容和UI界面等。
-- **TestScene**：测试场景文件，用于调试和测试特定功能。
 
 ### /Resources
 存放其他资源文件。
